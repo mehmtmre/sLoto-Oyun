@@ -44,8 +44,6 @@ public class sloto extends JFrame implements ActionListener {
     private JLabel grlnum = new JLabel("Girilen Numaralar:");
     private JLabel kzn = new JLabel("Kazanç:");
     private JLabel bhsmklbl = new JLabel("Bahis Miktarı : ");
-    //private JLabel txflbl = new JLabel("1 - 49 Arasında 6 Farklı Sayı : " , SwingConstants.CENTER);
-    //private JLabel txfmlbl = new JLabel("Bahis Miktarı : " , SwingConstants.CENTER);
     private int count=0;
     private int[] secsayi1 = new int[6];
     private String secsayi;
